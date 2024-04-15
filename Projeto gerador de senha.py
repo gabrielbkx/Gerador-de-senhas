@@ -1,7 +1,7 @@
 print("BEM VINDO AO GERADOR DE SENHAS")
 quantidade_de_letras = int(input("quantas letras voce quer que a sua senha tenha?\n"))
 quantidade_de_simbolos = int(input("Quantos símbolos você deseja que sua senha tenha?\n"))
-quantidade_de_numeros = int(input("Quantos número terá na sua senha?\n"))
+quantidade_de_numeros = int(input("Quantos números terá na sua senha?\n"))
 import random
 import string
 #criando as listas
